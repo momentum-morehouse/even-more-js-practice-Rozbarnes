@@ -42,7 +42,7 @@ let length = array.length[3];
 // for (let length of array)
 for (i = 0; i < shortWords.length; i++) {
     if (length - newArray);
-}
+}   then (return shortWords);
     // if (length === max);
 
 }
